@@ -14,7 +14,7 @@ SCOREBOARD_CHANNEL_ID = 1398149394288873572  # where the embed lives (can be sam
 PAGE_SIZE = 10  # players per page
 
 # Users who can use admin commands regardless of server permissions
-ADMIN_IDS = {353320170196041749}
+ADMIN_IDS = {353320170196041749, 590038326631858196}
 # ──────────────────────────────────────────────────────────────────────────────
 
 # ── MongoDB setup ─────────────────────────────────────────────────────────────
